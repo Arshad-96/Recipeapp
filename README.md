@@ -4,4 +4,4 @@
 
 <p><span>DEPLOY LINK: </span>https://charming-choux-13bc0f.netlify.app/</p>
 
-<p><span>GITHUB LINK: </span></p>
+<p><span>GITHUB LINK: </span>https://github.com/Arshad-96/Recipeapp.git</p>
